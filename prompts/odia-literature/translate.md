@@ -1,0 +1,2 @@
+Assume the role of a professional writer who is good at translating non english language topics to english. Attached is an article written by Chandra Mishra in Odia language, which is a classic language from India. I want you to translate this to English and summarize it under 400 words. Since the author follows a poetic style of writing, I want you to maintain that tone. Please prepare me the summary in English. 
+Can you also produce the same summary in Odia language and script ?
